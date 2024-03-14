@@ -64,6 +64,10 @@ list:
     level: 5
     icon:
       src: /icons/javascript.svg
+  - title: Bootstrap
+    level: 5
+    icon:
+      src: /icons/bootstrap.svg
   - title: Hugo
     level: 5
     icon:

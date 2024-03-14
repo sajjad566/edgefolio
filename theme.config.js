@@ -48,21 +48,6 @@ export const menu = [
 
 export const social = [
   {
-    name: 'Facebook',
-    url: 'https://www.facebook.com/',
-    Icon: IoLogoFacebook,
-  },
-  {
-    name: 'Twitter',
-    url: 'https://www.twitter.com/',
-    Icon: IoLogoTwitter,
-  },
-  {
-    name: 'Instagram',
-    url: 'https://www.instagram.com/',
-    Icon: IoLogoInstagram,
-  },
-  {
     name: 'LinkedIn',
     url: 'https://www.linkedin.com/',
     Icon: IoLogoLinkedin,

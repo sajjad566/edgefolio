@@ -5,18 +5,13 @@ seo:
   description: Custom description for this page goes here
 ---
 
----github
-repositories:
-  - sajjad566/nnw
-  - sajjad566/show-me-the-wow
-  - sajjad566/lara-morabito
----
+
 
 <PageTitle>
-  ### My Open-Source Projects
+  ### My Recent Github Projects
 </PageTitle>
 
-Discover my most popular open-source projects on Github.
+Discover my recent open-source projects on Github.
 
 
 
